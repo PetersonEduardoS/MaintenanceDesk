@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/MaintenanceDesk.Api/MaintenanceDesk.Api.csproj" />
+  <Project Path="tests/MaintenanceDesk.Tests/MaintenanceDesk.Tests.csproj" />
+</Solution>
